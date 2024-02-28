@@ -1,5 +1,6 @@
 # Libft-42
-C Standard Library Functions and String Manipulation Extensions
+C Standard Library Functions and String Manipulation Extensions.
+
 Welcome to the comprehensive C Standard Library Functions and String Manipulation Extensions repository! As part of the esteemed 42 project, this repository houses an extensive collection of fundamental C standard library functions along with additional utility functions tailored to enhance string manipulation capabilities.
 
 Key Features:
