@@ -5,6 +5,7 @@ Welcome to the comprehensive C Standard Library Functions and String Manipulatio
 Key Features:
 
 Standard Library Functions:
+
        **isalpha, isdigit, isalnum, isascii, isprint:** Functions for character classification.
        **strlen:** Calculates the length of a string.
        **memset, bzero:** Memory manipulation functions to set memory blocks.
@@ -13,10 +14,12 @@ Standard Library Functions:
        **atoi:** Converts a string to an integer.
 
 Memory Allocation and String Duplication:
+
        **calloc:** Allocates memory for an array and initializes it with zero.
        **strdup:** Duplicates a string in memory.
 
 Extended String Manipulation Functions:
+
        **ft_substr:** Extracts a substring from a string.
        **ft_strjoin:** Concatenates two strings.
        **ft_strtrim:** Trims whitespace characters from the beginning and end of a string.
@@ -26,6 +29,7 @@ Extended String Manipulation Functions:
        **ft_striteri:** Iterates through the characters of a string with an index.
 
 Output Functions:
+
        **ft_putchar_fd:** Outputs a character to a specified file descriptor.
        **ft_putstr_fd:** Outputs a string to a specified file descriptor.
        **ft_putendl_fd:** Outputs a string followed by a newline to a specified file descriptor.
